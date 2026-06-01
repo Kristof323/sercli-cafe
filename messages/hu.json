@@ -1,0 +1,95 @@
+{
+  "Navbar": {
+    "fooldal": "Főoldal",
+    "menu": "Menü",
+    "about": "Rólunk",
+    "rendezveny": "Rendezvény",
+    "gallery": "Galéria",
+    "contact": "Kapcsolat"
+  },
+  "Hero": {
+    "eyebrow": "Sercli Kávézó & Bisztró",
+    "title": "Sercli - Egy hely, ahová jó betérni.",
+    "subtitle": "Kávé, friss fogások és nyugodt hangulat Ferencvárosban.",
+    "cta1": "Menü & kávék",
+    "cta2": "Nyitvatartás & elérhetőség",
+    "hours": "H–P: 8:00–18:00  •  Szo: 8:00–15:00  •  Vas: Zárva"
+  },
+  "About": {
+    "eyebrow": "A mi helyünk",
+    "title": "Egy barátságos hely a hétköznapokban.",
+    "p1": "A Sercli 2024-ben nyílt meg Ferencvárosban azzal a szándékkal, hogy legyen egy hely, ahol jó megállni egy kávéra, ebédre vagy pár nyugodt percre.",
+    "p2": "Akár munkába indulsz, akár találkozóra érkezel, akár csak megpihennél kicsit – nálunk mindig vár egy barátságos asztal.",
+    "hours_title": "Nyitvatartás",
+    "weekdays": "Hétfő – Péntek",
+    "weekdays_hours": "8:00 – 18:00",
+    "saturday": "Szombat",
+    "saturday_hours": "8:00 – 15:00",
+    "sunday": "Vasárnap",
+    "sunday_hours": "Zárva"
+  },
+  "Gallery": {
+    "eyebrow": "Galéria",
+    "title": "Ízelítő a Sercliből",
+    "subtitle": "Kávék, ételek és hangulat."
+  },
+  "Menu": {
+    "eyebrow": "Étlap & kínálat",
+    "title": "Friss. Házi. Minden nap.",
+    "subtitle": "Friss alapanyagok, gondos elkészítés – minden nap.",
+    "foodMenu": "Étlap",
+    "drinkMenu": "Itallap"
+  },
+  "Contact": {
+    "eyebrow": "Elérhetőség",
+    "title": "Találj meg minket.",
+    "subtitle": "Szeretettel várunk a hét hat napján.",
+    "addressLabel": "Cím",
+    "addressValue": "Budapest, XIV. kerület",
+    "hoursLabel": "Nyitvatartás",
+    "hoursValue": "H–P: 7:30–18:00  |  Szo: 8:00–15:00",
+    "phoneLabel": "Telefon",
+    "emailLabel": "Email",
+    "phone_label": "Telefon",
+    "address_label": "Cím",
+    "hours_label": "Nyitvatartás",
+    "weekdays": "Hétfő – Péntek",
+    "saturday": "Szombat",
+    "sunday": "Vasárnap",
+    "closed": "Zárva",
+    "maps_link": "Megnyitás Google Maps-ben",
+    "description": "A Sercli egy barátságos, közepes méretű kávézó és bisztró Ferencvárosban. Ha foglalnál, rendezvényt szervezel vagy csak kérdésed van a menüvel kapcsolatban, elérsz minket az alábbi csatornákon.",
+  "address_value": "1093 Budapest, Páva utca 5.",
+  "weekdays_hours": "8:00 – 18:00",
+  "saturday_hours": "8:00 – 15:00",
+  "email_label": "E‑mail",
+  "card_title": "Írj nekünk gyorsan.",
+  "card_desc": "Ha foglalnál asztalt, kérdésed van a menüről vagy rendezvényt szervezel, már egy rövid üzenet is elég, hogy visszahívjunk.",
+  "card_cta": "Üzenet küldése e‑mailben",
+  "card_footnote": "Ha sürgős, inkább hívj telefonon – nyitvatartási időben mindig elérhetőek vagyunk.",
+  "copied": "Másolva ✓"
+    
+  },
+  "Footer": {
+    "rights": "Minden jog fenntartva."
+  },
+  "Rendezveny": {
+  "eyebrow": "Rendezvények",
+  "title": "Kis hely, nagy pillanatok.",
+  "p1": "Csapatépítő, születésnap, zártkörű brunch vagy esti borozás – a Sercli ideális hely egy otthonos, mégis különleges rendezvényhez.",
+  "p2": "Segítünk a menü összeállításában, italpárosításban, és szükség esetén projektorral, hangosítással is készülünk. A hangulat mindig laza, a kiszolgálás pedig személyes.",
+  "p3": "Írj pár sort az alkalomról, létszámról és időpontról, és egy munkanapon belül válaszolunk.",
+  "card_title": "Foglalj rendezvényre.",
+  "capacity_label": "Ajánlott létszám",
+  "capacity_value": "10 – 35 fő",
+  "timeslot_label": "Idősáv",
+  "timeslot_value": "Reggeli brunch, délutáni kávé, esti privát esemény",
+  "quote_label": "Ajánlatkérés",
+  "quote_desc": "Küldj e‑mailt vagy írj nekünk Messengeren, és egyeztetjük a részleteket.",
+  "cta_email": "Ajánlatot kérek e‑mail segítségével",
+  "cta_phone": "Inkább telefonon egyeztetnék",
+  "footnote": "Az e‑mailben írd meg az alkalmat, létszámot, kívánt dátumot és egy rövid elképzelést a menüről. Visszajelzés: 1 munkanapon belül.",
+  "copied": "Másolva ✓"
+
+  }
+}

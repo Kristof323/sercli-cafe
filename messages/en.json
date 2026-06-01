@@ -1,0 +1,96 @@
+{
+  "Navbar": {
+    "fooldal": "Home",
+    "menu": "Menu",
+    "about": "About",
+    "rendezveny": "Events",
+    "gallery": "Gallery",
+    "contact": "Contact"
+  },
+  "Hero": {
+    "eyebrow": "Sercli Café & Bistro",
+    "title": "Sercli – A place worth stopping by.",
+    "subtitle": "Coffee, fresh food and a relaxed atmosphere in Ferencváros.",
+    "cta1": "Menu & coffees",
+    "cta2": "Hours & contact",
+    "hours": "Mon–Fri: 8:00–18:00  •  Sat: 8:00–15:00  •  Sun: Closed"
+  },
+  "About": {
+    "eyebrow": "Our place",
+    "title": "A friendly spot for everyday life.",
+    "p1": "Sercli opened in 2024 in Ferencváros with one goal: to be a place worth stopping at – for a coffee, lunch, or just a quiet moment.",
+    "p2": "Whether you're heading to work, meeting someone, or just need a break – there's always a table waiting for you.",
+    "hours_title": "Opening hours",
+    "weekdays": "Monday – Friday",
+    "weekdays_hours": "8:00 – 18:00",
+    "saturday": "Saturday",
+    "saturday_hours": "8:00 – 15:00",
+    "sunday": "Sunday",
+    "sunday_hours": "Closed"
+  },
+  "Gallery": {
+    "eyebrow": "Gallery",
+    "title": "A taste of Sercli",
+    "subtitle": "Coffee, food and atmosphere."
+  },
+  "Menu": {
+    "eyebrow": "Menu & offerings",
+    "title": "Fresh. Homemade. Every day.",
+    "subtitle": "Fresh ingredients, made with care – every day.",
+    "foodMenu": "Food menu",
+    "drinkMenu": "Drink menu"
+  },
+  "Footer": {
+    "rights": "All rights reserved."
+  },
+  "Rendezveny": {
+    "eyebrow": "Events",
+    "title": "We're happy to bring Sercli to you.",
+    "description": "Whether it's a company lunch, team day or a smaller gathering – we put together the menu to suit you. Fresh, homemade food and reliable service.",
+    "item1": "Company lunches and team days",
+    "item2": "Cold and warm buffet platters",
+    "item3": "Flexible group size and location",
+    "item4": "Tailored to your needs",
+    "cta": "Call us to enquire"
+  },
+  "Rendezveny": {
+  "eyebrow": "Events",
+  "title": "Small venue, big moments.",
+  "p1": "Team building, birthday, private brunch or an evening gathering – Sercli is the perfect spot for something intimate yet special.",
+  "p2": "We help with the menu, drink pairings, and can arrange a projector or sound system if needed. The vibe is always relaxed, the service personal.",
+  "p3": "Drop us a few lines about the occasion, group size and date – we'll get back to you within one working day.",
+  "card_title": "Book your event.",
+  "capacity_label": "Recommended size",
+  "capacity_value": "10 – 35 guests",
+  "timeslot_label": "Time slot",
+  "timeslot_value": "Morning brunch, afternoon coffee, private evening event",
+  "quote_label": "Get a quote",
+  "quote_desc": "Send us an email or message us on Messenger and we'll sort out the details.",
+  "cta_email": "Request a quote by email",
+  "cta_phone": "I'd rather call",
+  "footnote": "In your email, include the occasion, group size, preferred date and a rough idea of the menu. We'll reply within one working day.",
+  "copied": "Copied ✓"
+},
+"Contact": {
+  "eyebrow": "Contact",
+  "title": "Come in, write or call.",
+  "description": "Sercli is a friendly mid-sized café and bistro in Ferencváros. Whether you'd like to book a table, organise an event or just have a question about the menu – reach us through the channels below.",
+  "address_label": "Address",
+  "address_value": "1093 Budapest, Páva utca 5.",
+  "phone_label": "Phone",
+  "email_label": "E‑mail",
+  "hours_label": "Opening hours",
+  "weekdays": "Monday – Friday",
+  "weekdays_hours": "8:00 – 18:00",
+  "saturday": "Saturday",
+  "saturday_hours": "8:00 – 15:00",
+  "sunday": "Sunday",
+  "closed": "Closed",
+  "maps_link": "Open in Maps",
+  "card_title": "Drop us a message.",
+  "card_desc": "Whether you want to book a table, ask about the menu or plan an event – a short message is all it takes for us to get back to you.",
+  "card_cta": "Send us an email",
+  "card_footnote": "If it's urgent, give us a call – we're always reachable during opening hours.",
+  "copied": "Copied ✓"
+}
+}
