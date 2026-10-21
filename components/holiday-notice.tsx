@@ -27,26 +27,38 @@ export function HolidayNotice() {
     <aside
       role="note"
       aria-label={t("holiday_eyebrow")}
-      className="max-w-md rounded-lg border border-primary/30 bg-background/70 backdrop-blur-sm p-5 shadow-sm"
+      className="relative max-w-xl overflow-hidden rounded-xl border-2 border-primary/60 bg-gradient-to-br from-primary/25 via-background/85 to-background/85 backdrop-blur-md p-6 md:p-7 shadow-2xl shadow-primary/20"
     >
-      <div className="flex items-center gap-2 text-primary">
-        <IconCalendarEvent className="size-4" aria-hidden />
-        <p className="text-xs tracking-[0.3em] uppercase">
+      {/* Bal oldali kiemelő csík */}
+      <span
+        aria-hidden
+        className="absolute inset-y-0 left-0 w-1.5 bg-primary"
+      />
+
+      <div className="flex items-center gap-3">
+        <span className="relative flex size-2.5" aria-hidden>
+          <span className="absolute inline-flex h-full w-full animate-ping rounded-full bg-primary opacity-75" />
+          <span className="relative inline-flex size-2.5 rounded-full bg-primary" />
+        </span>
+        <IconCalendarEvent className="size-5 text-primary" aria-hidden />
+        <p className="text-sm font-medium tracking-[0.3em] uppercase text-primary">
           {t("holiday_eyebrow")}
         </p>
       </div>
 
-      <p className="font-serif text-xl md:text-2xl font-light leading-snug mt-3">
+      <p className="font-serif text-2xl md:text-4xl font-light leading-tight mt-4">
         {t("holiday_title")}
       </p>
 
-      <dl className="mt-4 divide-y divide-border/70 text-sm">
+      <dl className="mt-5 divide-y divide-primary/20 text-base md:text-lg">
         {rows.map((r) => (
-          <div key={r.day} className="flex items-center justify-between py-2">
-            <dt className="text-muted-foreground">{r.day}</dt>
+          <div key={r.day} className="flex items-center justify-between gap-4 py-3">
+            <dt className="text-foreground/80">{r.day}</dt>
             <dd
               className={
-                r.closed ? "font-medium text-primary" : "font-medium tabular-nums"
+                r.closed
+                  ? "rounded-md bg-primary px-3 py-0.5 font-semibold text-primary-foreground"
+                  : "font-semibold tabular-nums text-foreground"
               }
             >
               {r.hours}
@@ -55,7 +67,7 @@ export function HolidayNotice() {
         ))}
       </dl>
 
-      <p className="text-xs text-muted-foreground mt-3">{t("holiday_note")}</p>
+      <p className="text-sm text-muted-foreground mt-4">{t("holiday_note")}</p>
     </aside>
   );
 }
