@@ -13,7 +13,15 @@
     "subtitle": "Coffee, fresh food and a relaxed atmosphere in Ferencváros.",
     "cta1": "Menu & coffees",
     "cta2": "Hours & contact",
-    "hours": "Mon–Fri: 8:00–18:00  •  Sat: 8:00–15:00  •  Sun: Closed"
+    "hours": "Mon–Fri: 8:00–18:00  •  Sat: 8:00–15:00  •  Sun: Closed",
+    "holiday_eyebrow": "Holiday opening hours",
+    "holiday_title": "We're open over the 23 October holiday.",
+    "holiday_day1": "23 Oct (Friday)",
+    "holiday_day2": "24 Oct (Saturday)",
+    "holiday_day3": "25 Oct (Sunday)",
+    "holiday_hours": "8:30 – 14:00",
+    "holiday_closed": "Closed",
+    "holiday_note": "Shorter opening hours apply over the holiday."
   },
   "About": {
     "eyebrow": "Our place",

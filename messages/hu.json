@@ -13,7 +13,15 @@
     "subtitle": "Kávé, friss fogások és nyugodt hangulat Ferencvárosban.",
     "cta1": "Menü & kávék",
     "cta2": "Nyitvatartás & elérhetőség",
-    "hours": "H–P: 8:00–18:00  •  Szo: 8:00–15:00  •  Vas: Zárva"
+    "hours": "H–P: 8:00–18:00  •  Szo: 8:00–15:00  •  Vas: Zárva",
+    "holiday_eyebrow": "Ünnepi nyitvatartás",
+    "holiday_title": "Október 23. körül is várunk.",
+    "holiday_day1": "Okt. 23. (péntek)",
+    "holiday_day2": "Okt. 24. (szombat)",
+    "holiday_day3": "Okt. 25. (vasárnap)",
+    "holiday_hours": "8:30 – 14:00",
+    "holiday_closed": "Zárva",
+    "holiday_note": "Az ünnepi napokon rövidített nyitvatartással várunk."
   },
   "About": {
     "eyebrow": "A mi helyünk",

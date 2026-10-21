@@ -5,6 +5,7 @@ import { useTranslations } from "next-intl";
 import { useTheme } from "next-themes";
 import { Button } from "@/components/ui/button";
 import { IconArrowDown } from "@tabler/icons-react";
+import { HolidayNotice } from "@/components/holiday-notice";
 
 export function Hero() {
   const t = useTranslations("Hero");
@@ -51,6 +52,9 @@ export function Hero() {
           <p className="text-base md:text-lg text-muted-foreground leading-relaxed max-w-md">
             {t("subtitle")}
           </p>
+
+          {/* Ünnepi nyitvatartás közlemény */}
+          <HolidayNotice />
 
           {/* CTA gombok */}
           <div className="flex flex-col sm:flex-row gap-3 pt-2">
